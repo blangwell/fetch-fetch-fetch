@@ -1,6 +1,20 @@
 body {
     background-color: darkcyan;
-    color: white;
-    text-align: center;
+    color: black;
     font-family: Helvetica, sans-serif;
+    margin-top: 100px auto;
+}
+
+h1:hover {
+    color: pink;
+    cursor: pointer;
+}
+
+div {
+    background-color: lightyellow;
+}
+
+img {
+    background-color: purple;
+    border: 5px solid white;
 }
